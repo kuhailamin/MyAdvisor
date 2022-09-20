@@ -1,0 +1,2334 @@
+{
+  "College" : {
+    "CTI" : {
+      "Name" : "College of Technological Innovation",
+      "Programs" : {
+        "BSIT" : {
+          "CHours" : 21,
+          "Cocentrations" : {
+            "SECNET" : {
+              "Hours" : 21,
+              "Name" : "Security and Network Technology"
+            },
+            "WAM" : {
+              "Hours" : 21,
+              "Name" : "Web and Mobile Application Development"
+            }
+          },
+          "EHours" : 9,
+          "GHours" : 39,
+          "Name" : "Bachelor of Science in Information Technology",
+          "PHours" : 51
+        }
+      }
+    }
+  },
+  "Course" : {
+    "ADV100" : {
+      "Cocentration" : " ",
+      "College" : " ",
+      "Credits" : 0,
+      "Description" : "Students who enter their first term or semester in the baccalaureate program will be enrolled in this course that provides advising support, schedule planning, and advice on 138",
+      "PrerequisiteID" : " ",
+      "Program" : " ",
+      "Title" : "Advising"
+    },
+    "ADV101" : {
+      "Cocentration" : " ",
+      "College" : " ",
+      "Credits" : 3,
+      "Description" : "Taken during the student’s second baccalaureate semester, this course emphasizes individual learning plan advising, focusing on short term academic planning and improving their performance and engagement inside and outside the classroom. Through the advising relationship, students learn about themselves and learn to be responsible members of the university academic community.",
+      "PrerequisiteID" : " ",
+      "Program" : " ",
+      "Title" : "Advising"
+    },
+    "ARA030" : {
+      "Cocentration" : " ",
+      "College" : " ",
+      "Credits" : 0,
+      "Description" : "Students focus on enhancing their proficiency in Arabic and developing basic skills in listening, reading, speaking and writing in Modern Standard Arabic so that they can progress to GEN 031 before being accepted in ARA 130",
+      "PrerequisiteID" : " ",
+      "Program" : " ",
+      "Title" : "Arabic Preparedness"
+    },
+    "ARA130" : {
+      "Cocentration" : " ",
+      "College" : " ",
+      "Credits" : 3,
+      "Description" : "Arabic Reading Skills (ARA 130) is an Arabic language course that aims to advance students’ proficiency in reading, writing about reading, and speaking skills, through critical engagement with selected multidisciplinary texts that focus on certain reading genres and skills. Each text is followed by interactive questions and drills. At the end of each unit, student will also have the chance to review some basic linguistic information: orthographic, semantic, syntactic, and stylistic. The course will help students streamline their academic language skills in order in order to demonstrate comprehension and to respond effectively to texts in Modern Standard Arabic. They will learn how to analyze and sort out information, find evidence and evaluate its quality, organize ideas, use the appropriate word choice, create meaningful senten",
+      "PrerequisiteID" : " ",
+      "Program" : " ",
+      "Title" : "Arabic Concepts"
+    },
+    "CIT210" : {
+      "Cocentration" : " ",
+      "College" : " ",
+      "Credits" : 3,
+      "Description" : "The course provides an understanding of modern IT infrastructure and its supporting role in organizations in addition to introducing IT as a profession. It introduces hardware and software, operating systems, and essential network and storage technologies relevant to IT service performance, reliability, security and availability. The theory is accompanied by",
+      "PrerequisiteID" : " ",
+      "Program" : " ",
+      "Title" : "Essentials of IT and Infrastructure"
+    },
+    "CIT300" : {
+      "Cocentration" : " ",
+      "College" : "CTI",
+      "Credits" : 3,
+      "Description" : "Provides an overview of the technical communication process and distinguishes technical communication for the IT discipline from other forms of communication. It introduces the fundamentals of planning, drafting and editing professional and technical texts, including proposals, reports, technical presentations, and communicating effectively with stakeholders orally and in writing. As teams are common in the IT professions, communication in teams is also addressed. ",
+      "PrerequisiteID" : "ENG240",
+      "Program" : " ",
+      "Title" : "Technical Communication"
+    },
+    "CIT365" : {
+      "Cocentration" : " ",
+      "College" : "CTI",
+      "Credits" : 3,
+      "Description" : "This course is centered around analysing and modelling information requirements, converting conceptual models into logical data models and applying normalization techniques to ensure consistency and avoid redundancy. Design and implementation of relational databases using an industrial-strength database management system and SQL (Structured Query Language) is the practical focus. ",
+      "PrerequisiteID" : [ "CIT360", "INS260", "CIT210", "INS261" ],
+      "Program" : " ",
+      "Title" : "Database Systems "
+    },
+    "ENG140" : {
+      "Cocentration" : " ",
+      "College" : " ",
+      "Credits" : 3,
+      "Description" : "This course introduces students to the field of mobile computing in terms of concepts, principles, best practices, techniques, and technologies. Students learn the different approaches for designing and developing mobile apps whether these apps are platform-dependent or not (native, mobile Web, and hybrid). Basic security, testing, and deployment aspects of mobile apps are, also, included in the course.",
+      "PrerequisiteID" : " ",
+      "Program" : " ",
+      "Title" : "English Composition I"
+    },
+    "ENG145" : {
+      "Cocentration" : " ",
+      "College" : " ",
+      "Credits" : 3,
+      "Description" : "ENG145 English Composition II requires extensive reading and writing skills development with a focus on persuasive writing in various rhetorical contexts. The course provides instruction and practice in reading comprehension and text analysis.Students are required to implement persuasive strategies in written and visual genres. Students learn to identify and use persuasive modes of appeal, to summarize and paraphrase with increased competence and to develop persuasive compositions for specific audiences and purposes. The course emphasizes a process writing approach.",
+      "PrerequisiteID" : "ENG140",
+      "Program" : " ",
+      "Title" : "English Composition II"
+    },
+    "ENG240" : {
+      "Cocentration" : " ",
+      "College" : " ",
+      "Credits" : 3,
+      "Description" : "This course aims to develop students&rsquo; critical reading and writing proficiencies, including lexical and grammatical range, accuracy, and independent editing skills, in order to communicate effectively in their disciplinary studies. Academic Discourse Across Disciplines is an intensive academic English course designed for students to develop skills and strategies in comprehending, engaging with and producing texts in genres pertinent to their chosen major discipline.Students engage in the reading and writing process, focused on developing effectively organized, coherent, and accurate texts to demonstrate an understanding of the genres, conventions and communication styles to which they will be increasingly exposed in pursuing their major studies. These genres will include explanations of disciplinary concepts and knowledge; reflective and argumentative essays.",
+      "PrerequisiteID" : "GEN145",
+      "Program" : " ",
+      "Title" : "English Composition III"
+    },
+    "GEN110" : {
+      "Cocentration" : " ",
+      "College" : " ",
+      "Credits" : 3,
+      "Description" : "This course, Data Management and Analysis, is a first semester course.It is an introduction to management and analysis of data in which students will represent data graphically, describe and interpret graphical and numerical representations of data sets, compare data sets using data analysis, and draw relevant conclusions about the populations from which the data sets are taken.This course is designed to provide students with a solid background in statistics, whilst developing their critical thinking and quantitative reasoning. Students will use appropriate computer software to graph, analyze and interpret data. Real life situations to which students will apply statistical concepts are taken from a variety of subjects. ",
+      "PrerequisiteID" : [ "Emsat Math score of at least 500", "Math Placement Exam score of at least 70%", "A passing score “P” in DMT010" ],
+      "Program" : " ",
+      "Title" : "Data Management and Analysis "
+    },
+    "GEN120" : {
+      "Cocentration" : " ",
+      "College" : " ",
+      "Credits" : 3,
+      "Description" : "This course guides students through the process of understanding and planning for personal success through goal setting, self-assessment, reflection, and self-management. In preparing students to be future leaders in their country, students are required to identify ways in which they can contribute to their local society. They must research a topic related to the UAE and then provide service to the area of the community related to their topic. Students will then learn how to use their experience, skills, and talents to seek out and apply for employment. Academic skill development and advising are ongoing throughout the course (including advising regarding intention to major). Students will be expected to use and interact with various types of technology in this course.",
+      "PrerequisiteID" : " ",
+      "Program" : " ",
+      "Title" : "Life Skills"
+    },
+    "GEN140" : {
+      "Cocentration" : " ",
+      "College" : " ",
+      "Credits" : 3,
+      "Description" : "GEN140 English Composition I introduces students to academic reading and writing strategies and practice. It provides instruction and guided practice in university-level reading and writing skills, with emphasis on the reading and writing connection and understanding of the rhetorical contexts in which writers write. This course introduces students to effective paragraph structure and to understanding how the paragraph functions within a standard academic essay. Students will also demonstrate reading comprehension and develop the reading skills necessary for success in first-year courses in University College. In this course, students learn about the process of composing, revising, and editing in order to produce clear, concise, and grammatically correct pieces of writing. Students are encouraged to become self-directed learners and to demonstrate comprehension of a variety of texts through writing assignments that focus responses to some of the ideas contained in those texts. These same assignments introduce students to basic rhetorical modes. The course prepares students for GEN145 English Composition II and EWS240 English Composition III. ",
+      "PrerequisiteID" : "Admission to baccalaureate program",
+      "Program" : " ",
+      "Title" : "English Composition I"
+    },
+    "GEN145" : {
+      "Cocentration" : " ",
+      "College" : " ",
+      "Credits" : 3,
+      "Description" : "GEN145 English Composition II requires extensive reading and writing skills development with a focus on persuasive writing in various rhetorical contexts. The course provides instruction and practice in reading comprehension and text analysis. Students are required to implement persuasive strategies in written and visual genres. Students learn to identify and use persuasive modes of appeal, to summarize and paraphrase with increased competence and to develop persuasive compositions for specific audiences and purposes. The course emphasizes a process writing approach. The course prepares students for EWS240 English Composition III.",
+      "PrerequisiteID" : "GEN140",
+      "Program" : " ",
+      "Title" : "English Cpmposition II"
+    },
+    "GEN150" : {
+      "Cocentration" : " ",
+      "College" : " ",
+      "Credits" : 3,
+      "Description" : "This interdisciplinary course takes students through a journey of connecting with self, others, and community. Students will explore concepts of positive psychology and apply tools to find their purpose and improve their wellbeing. Topics will include meaning, purpose, resilience, motivation, emotional intelligence, gratitude, mindfulness, altruism, empathy, and happiness around the world, and in particular in the context of the UAE. This course uses an experiential approach in guiding students to understand and apply core concepts, analyze foundational texts and exercise self-reflection. Students will be exposed to the discourse on how to live a purposeful life and will gain insights and practical strategies to engage in a search for fulfillment.",
+      "PrerequisiteID" : " ",
+      "Program" : " ",
+      "Title" : "Happiness, Positivity and Wellbeing"
+    },
+    "GEN175" : {
+      "Cocentration" : " ",
+      "College" : " ",
+      "Credits" : 3,
+      "Description" : "This course prepares Zayed University students to be fully capable and informed 21st-century digital citizens by emphasizing essential IT knowledge, skills and perspectives. The course focuses and builds on the IT topics and domains covered by the UAE Ministry of Education Computer Science and Technology Framework, which is the basis of the IT curriculum in the UAE. The course covers the impact of IT on society and economy, as well as the security and privacy issues raised by IT. Students learn the hardware, software, networking and operation components of IT systems. The course also covers the basics of problem solving, algorithms and development of simple programs. Robotic-kits are used throughout the semester as a tool to illustrate the way all these topics are connected. Further, students engage in activities that focus on developing and refining their ability to understand and apply IT concepts, products and services in their personal, academic and professional lives. ",
+      "PrerequisiteID" : " ",
+      "Program" : " ",
+      "Title" : "Introduction to Information Technology"
+    },
+    "GEN185" : {
+      "Cocentration" : " ",
+      "College" : " ",
+      "Credits" : 3,
+      "Description" : "This course provides an introduction to the scientific research methods commonly used in social, physical and health sciences. Particular attention is given to formulating research questions, determining the appropriate method to answer questions, planning and designing research, collecting, analyzing, interpreting data and presenting findings. Students will be introduced to quantitative and qualitative modes of research and analysis and attain research skills relevant to the majors and professions in which they will work. ",
+      "PrerequisiteID" : " ",
+      "Program" : " ",
+      "Title" : "Methods of Scientific Research and Development"
+    },
+    "GEN195" : {
+      "Cocentration" : "",
+      "College" : " ",
+      "Credits" : 3,
+      "Description" : "GEN195 underlines the clear link between health and sustainability. This is targeted through the investigative study of human body systems, social and behavioral health; local and global health; demography, population health and environmental health. This course provides students the background necessary to understand specific health and environmental concerns facing the UAE, the World, and how they affect them at the personal level in their daily lives.",
+      "PrerequisiteID" : "",
+      "Program" : " ",
+      "Title" : "Living Science: Health and Environment"
+    },
+    "GEN220" : {
+      "Cocentration" : " ",
+      "College" : " ",
+      "Credits" : 3,
+      "Description" : "This course is a skills-rich approach to learning innovation and entrepreneurship that can be applied to any high-growth enterprise or other organization in the UAE. Students will develop an understanding of the nature of entrepreneurship and its connection to the culture and economy of the UAE, and how innovation drives entrepreneurship. The course is composed of three modules: Module 1: Design Thinking; Module 2: Entrepreneurship; and Module 3: Growth and Leadership. The course encourages creativity, civic responsibility, team work, ethical decision-making, and critical thinking skills, leading to students being prepared to take their places as members of an entrepreneurial oriented workforce. The course culminates in generating entrepreneurial concepts related to students’ professional development.",
+      "PrerequisiteID" : "GEN120",
+      "Program" : " ",
+      "Title" : "Fundamentals of Innovation and Entrepreneurship "
+    },
+    "HSS255" : {
+      "Cocentration" : " ",
+      "College" : " ",
+      "Credits" : 3,
+      "Description" : "This course seeks to consolidate national belonging and identity and appreciate national achievements of the United Arab Emirates. The course focuses in introducing students to the main social features of Emirati community and its core values and heritage, and elaborating various substantial studies related to the history and geography of the country, as well as to the internal and foreign policy, social development and services provided by the State, including the empowerment of women and their role in society. This course also aims to shed light on UAE role in building an Emirati knowledgeable society, encouraging multiculturalism, and developing solid economic and technological infrastructure, as well as positioning UAE at a global competitive level. The course also includes the future visions and challenges towards developing strategic plans as it will discuss Federal Government Vision 2021 and Abu Dhabi Vision 2030 and the different issues related to future development plans and the expected challenges.",
+      "PrerequisiteID" : " ",
+      "Program" : " ",
+      "Title" : "Emirates Studies "
+    },
+    "ISL135" : {
+      "Cocentration" : " ",
+      "College" : " ",
+      "Credits" : 3,
+      "Description" : "This course is designed to give a comprehensive and balanced background about Islamic civilization and its impact on modern life. To fulfill this, it is divided into three main parts. Firstly, the course explores the main features and characteristics which shaped the core of Islamic civilization from its beginning and throughout the Middle Ages, with an introduction to the relevant terms surrounding the concept of civilization. The second section traces the contributions of Muslims to different fields of knowledge, i.e. math, medicine, chemistry, astronomy, arts, and the artistic aspects of Islamic cities, besides the main institutions which Muslims developed to facilitate and control big cities, i.e.: waqf and hisba. The third and last part explores the pathways of diffusing Islamic civilization into Europe, in addition to the main attitudes of Westerners toward the real influence of the Islamic civilization on the world.",
+      "PrerequisiteID" : " ",
+      "Program" : " ",
+      "Title" : "Islamic Civilization"
+    },
+    "MTH215" : {
+      "Cocentration" : " ",
+      "College" : " ",
+      "Credits" : 3,
+      "Description" : "This course introduces students to some of the mathematical and theoretical foundations of computing. Key topics include computer number representation and their conversion, sets, logic, relations, functions and boolean algebra . Algorithm design and their analysis using growth functions, graphs and trees will also be introduced.",
+      "PrerequisiteID" : " ",
+      "Program" : " ",
+      "Title" : "Computing Foundations"
+    },
+    "MTH281" : {
+      "Cocentration" : " ",
+      "College" : " ",
+      "Credits" : 3,
+      "Description" : "Topics covered in the course include discrete populations, samples, organization of data, measures of central tendency and dispersions, charts and histograms, probability distribution, estimation, hypothesis testing, correlation, regression and inferential statistics. ",
+      "PrerequisiteID" : [ "GEN110", "EMSAT score of at least 700 " ],
+      "Program" : " ",
+      "Title" : "Probability and Statistics "
+    },
+    "NET256" : {
+      "Cocentration" : " ",
+      "College" : "CTI",
+      "Credits" : 3,
+      "Description" : "This course covers the key foundations of computer networking. The topics covered include network terminology, standards, network models such as the Open Systems Interconnection (OSI model), protocols (e.g. Transmission Control Protocol (TCP) and User Datagram Protocol (UDP), physical and logical topologies in Local Area Networks (LAN) and Wide Area Networks (WAN), IPv4 and IPv6 addressing, and wireless and mobile networks. ",
+      "PrerequisiteID" : "CIT210",
+      "Program" : "BSIT",
+      "Title" : "Computer Network Foundations"
+    },
+    "NET257" : {
+      "Cocentration" : " ",
+      "College" : "CTI",
+      "Credits" : 1,
+      "Description" : "This course provides hands-on practice for Computer Networking Foundations topics covered in NET256. ",
+      "PrerequisiteID" : "CIT210",
+      "Program" : "BSIT",
+      "Title" : "Computer Network Foundations Lab"
+    },
+    "SEC235" : {
+      "Cocentration" : " ",
+      "College" : "CTI",
+      "Credits" : 3,
+      "Description" : "This course presents a comprehensive introduction to core information security principles and practices. Topics include: common threats, attacks and defence strategies, access control, wireless security, basic cryptography, digital signatures, public key infrastructure, network, Internet and email security.",
+      "PrerequisiteID" : " ",
+      "Program" : " ",
+      "Title" : "Information Security Foundations"
+    },
+    "SWE225" : {
+      "Cocentration" : " ",
+      "College" : "CTI",
+      "Credits" : 3,
+      "Description" : "This course provides an introduction to the principles of programming for problem solving. It introduces algorithm design, program development and execution. Students learn how to identify and formulate solutions to simple, real-world problems using essential programming structures, and to perform code walkthroughs and basic debugging. ",
+      "PrerequisiteID" : [ " MTH215", "ART201" ],
+      "Program" : "",
+      "Title" : "Introduction to Programming and Problem Solving"
+    },
+    "SWE371" : {
+      "Cocentration" : "WAM",
+      "College" : "CTI",
+      "Credits" : 3,
+      "Description" : "This course introduces students to the field of mobile computing in terms of concepts, principles, best practices, techniques, and technologies. Students learn the different approaches for designing and developing mobile apps whether these apps are platform-dependent or not (native, mobile Web, and hybrid). Basic security, testing, and deployment aspects of mobile apps are, also, included in the course.",
+      "PrerequisiteID" : "SWE225",
+      "Program" : "BSIT",
+      "Title" : "Mobile Computing"
+    }
+  },
+  "Enrollment" : {
+    "001" : {
+      "202021" : {
+        "ADV100" : {
+          "Absences" : "0",
+          "CRN" : 20647,
+          "Grade" : "P",
+          "Repeated" : 0,
+          "SectionID" : "904"
+        },
+        "ARA030" : {
+          "Absences" : "0",
+          "CRN" : 20773,
+          "Grade" : "P",
+          "Repeated" : 0,
+          "SectionID" : "902"
+        },
+        "CIT201" : {
+          "Absences" : "0",
+          "CRN" : 20773,
+          "Grade" : "B",
+          "Repeated" : 0,
+          "SectionID" : "902"
+        },
+        "ENG140" : {
+          "Absences" : "0",
+          "CRN" : 20412,
+          "Grade" : "F",
+          "Repeated" : 0,
+          "SectionID" : "906"
+        },
+        "GEN150" : {
+          "Absences" : "0",
+          "CRN" : 21695,
+          "Grade" : "D+",
+          "Repeated" : 0,
+          "SectionID" : "908"
+        },
+        "GEN195" : {
+          "Absences" : "0",
+          "CRN" : 23042,
+          "Grade" : "B-",
+          "Repeated" : 0,
+          "SectionID" : "909"
+        }
+      },
+      "202022" : {
+        "ARA130" : {
+          "Absences" : "0",
+          "CRN" : 21836,
+          "Grade" : " ",
+          "Repeated" : 0,
+          "SectionID" : "902"
+        },
+        "ENG145" : {
+          "Absences" : "0",
+          "CRN" : 21934,
+          "Grade" : "P",
+          "Repeated" : 0,
+          "SectionID" : "905"
+        },
+        "ISL135" : {
+          "Absences" : "0",
+          "CRN" : 21934,
+          "Grade" : " ",
+          "Repeated" : 0,
+          "SectionID" : "905"
+        },
+        "MTH215" : {
+          "Absences" : "0",
+          "CRN" : 21855,
+          "Grade" : "P",
+          "Repeated" : 0,
+          "SectionID" : "904"
+        }
+      },
+      "202121" : {
+        "GEN220" : {
+          "CRN" : 21451,
+          "Repeated" : 0,
+          "SectionID" : 903
+        },
+        "HSS255" : {
+          "CRN" : 21389,
+          "Repeated" : 0,
+          "SectionID" : 901
+        }
+      },
+      "EarnedHours" : 24,
+      "GPAHours" : 9,
+      "Projection" : [ "SWE225", "SWE346", "CIT365", "CIT300", "CIT315", "SWE245", "SEC235" ]
+    },
+    "002" : {
+      "201921" : {
+        "ADV100" : {
+          "Absences" : "0",
+          "CRN" : 33491,
+          "Grade" : "P",
+          "Repeated" : 0,
+          "SectionID" : "913"
+        },
+        "ARA130" : {
+          "Absences" : "2.94",
+          "CRN" : 32588,
+          "Grade" : "A-",
+          "Repeated" : 0,
+          "SectionID" : "901"
+        },
+        "GEN110" : {
+          "Absences" : "0",
+          "CRN" : 24017,
+          "Grade" : "A",
+          "Repeated" : 0,
+          "SectionID" : "905"
+        },
+        "GEN120" : {
+          "Absences" : "2.94",
+          "CRN" : 33531,
+          "Grade" : "A-",
+          "Repeated" : 0,
+          "SectionID" : "913"
+        },
+        "GEN140" : {
+          "Absences" : "5.88",
+          "CRN" : 20986,
+          "Grade" : "A",
+          "Repeated" : 0,
+          "SectionID" : "906"
+        },
+        "GEN150" : {
+          "Absences" : "0",
+          "CRN" : 23054,
+          "Grade" : "A",
+          "Repeated" : 0,
+          "SectionID" : "905"
+        }
+      },
+      "201922" : {
+        "ADV101" : {
+          "Absences" : "0",
+          "CRN" : 20944,
+          "Grade" : "P",
+          "Repeated" : 0,
+          "SectionID" : "04"
+        },
+        "GEN145" : {
+          "Absences" : "0",
+          "CRN" : 20986,
+          "Grade" : "B+",
+          "Repeated" : 0,
+          "SectionID" : "903"
+        },
+        "GEN175" : {
+          "Absences" : "0",
+          "CRN" : 23054,
+          "Grade" : "A",
+          "Repeated" : 0,
+          "SectionID" : "907"
+        },
+        "GEN185" : {
+          "Absences" : "0",
+          "CRN" : 20627,
+          "Grade" : "A",
+          "Repeated" : 0,
+          "SectionID" : "903"
+        },
+        "GEN195" : {
+          "Absences" : "2.94",
+          "CRN" : 22065,
+          "Grade" : "A",
+          "Repeated" : 0,
+          "SectionID" : "909"
+        },
+        "ISL135" : {
+          "Absences" : "0",
+          "CRN" : 22726,
+          "Grade" : "A",
+          "Repeated" : 0,
+          "SectionID" : "902"
+        }
+      },
+      "202021" : {
+        "CIT210" : {
+          "Absences" : "0",
+          "CRN" : 22698,
+          "Grade" : "B+",
+          "Repeated" : 0,
+          "SectionID" : "901"
+        },
+        "ENG240" : {
+          "Absences" : "0",
+          "CRN" : 21151,
+          "Grade" : "A",
+          "Repeated" : 0,
+          "SectionID" : "905"
+        },
+        "GEN220" : {
+          "Absences" : "0",
+          "CRN" : 20376,
+          "Grade" : "A-",
+          "Repeated" : 0,
+          "SectionID" : "902"
+        },
+        "HSS255" : {
+          "Absences" : "0",
+          "CRN" : 21456,
+          "Grade" : "B+",
+          "Repeated" : 0,
+          "SectionID" : "905"
+        },
+        "MTH215" : {
+          "Absences" : "0",
+          "CRN" : 21826,
+          "Grade" : "F",
+          "Repeated" : 0,
+          "SectionID" : "902"
+        }
+      },
+      "202022" : {
+        "CIT365" : {
+          "Absences" : "0",
+          "CRN" : 22783,
+          "Grade" : " ",
+          "Repeated" : 0,
+          "SectionID" : "904"
+        },
+        "MTH281" : {
+          "Absences" : "0",
+          "CRN" : 20778,
+          "Grade" : " ",
+          "Repeated" : 0,
+          "SectionID" : "901"
+        },
+        "NET256" : {
+          "Absences" : "0",
+          "CRN" : 20913,
+          "Grade" : " ",
+          "Repeated" : 0,
+          "SectionID" : "903"
+        },
+        "NET257" : {
+          "Absences" : "0",
+          "CRN" : 23654,
+          "Grade" : " ",
+          "Repeated" : 0,
+          "SectionID" : "906"
+        },
+        "SEC235" : {
+          "Absences" : "2.94",
+          "CRN" : 20922,
+          "Grade" : " ",
+          "Repeated" : 0,
+          "SectionID" : "901"
+        },
+        "SWE225" : {
+          "Absences" : "0",
+          "CRN" : 22819,
+          "Grade" : " ",
+          "Repeated" : 0,
+          "SectionID" : "903"
+        }
+      },
+      "202121" : {
+        "CIT300" : {
+          "CRN" : 21345,
+          "Repeated" : 0,
+          "SectionID" : 901
+        },
+        "CIT315" : {
+          "CRN" : 21456,
+          "Repeated" : 0,
+          "SectionID" : 904
+        }
+      },
+      "EarnedHours" : 61,
+      "GPAHours" : 45,
+      "Projection" : [ "SWE320", "SWE321", "ARA320", "SWE245", "INS377", "IMT340" ]
+    },
+    "003" : {
+      "202021" : {
+        "ADV100" : {
+          "Absences" : "0",
+          "CRN" : 21334,
+          "Grade" : "P",
+          "Repeated" : 0,
+          "SectionID" : "028"
+        },
+        "ARA130" : {
+          "Absences" : 0,
+          "CRN" : 21921,
+          "Grade" : "B-",
+          "Repeated " : 0,
+          "SectionID" : "021"
+        },
+        "GEN110" : {
+          "Absences" : "0",
+          "CRN" : 20814,
+          "Grade" : "F",
+          "Repeated" : 0,
+          "SectionID" : "002"
+        },
+        "GEN140" : {
+          "Absences" : 0,
+          "CRN" : 23654,
+          "Grade" : "C+",
+          "Repeated" : 0,
+          "SectionID" : "010"
+        },
+        "GEN150" : {
+          "Absences" : "0",
+          "CRN" : 20234,
+          "Grade" : "NP",
+          "Repeated" : 0,
+          "SectionID" : "005"
+        }
+      },
+      "202022" : {
+        "GEN145" : {
+          "Absences" : "0",
+          "CRN" : 22716,
+          "Grade" : "B",
+          "Repeated" : 0,
+          "SectionID" : "019"
+        },
+        "GEN175" : {
+          "Absences" : "0",
+          "CRN" : 21162,
+          "Grade" : " ",
+          "Repeated" : 0,
+          "SectionID" : "007"
+        },
+        "GEN185" : {
+          "Absences" : "0",
+          "CRN" : 23530,
+          "Grade" : " ",
+          "Repeated" : 0,
+          "SectionID" : "009"
+        },
+        "GEN195" : {
+          "Absences" : 0,
+          "CRN" : 27226,
+          "Grade" : "A",
+          "Repeated" : 0,
+          "SectionID" : "011"
+        },
+        "ISL135" : {
+          "Absences" : "0",
+          "CRN" : 21863,
+          "Grade" : " ",
+          "Repeated" : 0,
+          "SectionID" : "006"
+        }
+      },
+      "202121" : {
+        "CIT210" : {
+          "CRN" : 21309,
+          "Repeated" : 0,
+          "SectionID" : 907
+        },
+        "ENG240" : {
+          "CRN" : 21376,
+          "Repeated" : 0,
+          "SectionID" : 901
+        }
+      },
+      "EarnedHours" : 24,
+      "GPAHours" : 9,
+      "Projection" : [ "SWE225", "SEC235", "GEN220", "HSS255", "MTH215", "CIT365" ]
+    },
+    "004" : {
+      "201921" : {
+        "ADV100" : {
+          "Absences" : "0",
+          "CRN" : 33486,
+          "Grade" : "P",
+          "Repeated" : 0,
+          "SectionID" : "911"
+        },
+        "ARA130" : {
+          "Absences" : "5.88",
+          "CRN" : 32589,
+          "Grade" : "B",
+          "Repeated" : 0,
+          "SectionID" : "902"
+        },
+        "GEN110" : {
+          "Absences" : "0",
+          "CRN" : 23040,
+          "Grade" : "A",
+          "Repeated" : 0,
+          "SectionID" : "903"
+        },
+        "GEN120" : {
+          "Absences" : "2.94",
+          "CRN" : 33527,
+          "Grade" : "A-",
+          "Repeated" : 0,
+          "SectionID" : "911"
+        },
+        "GEN140" : {
+          "Absences" : "5.88",
+          "CRN" : 22767,
+          "Grade" : "C-",
+          "Repeated" : 0,
+          "SectionID" : "903"
+        },
+        "GEN150" : {
+          "Absences" : "0",
+          "CRN" : 33657,
+          "Grade" : "A-",
+          "Repeated" : 0,
+          "SectionID" : "910"
+        }
+      },
+      "201922" : {
+        "ADV101" : {
+          "Absences" : "0",
+          "CRN" : 20944,
+          "Grade" : "FL",
+          "Repeated" : 0,
+          "SectionID" : "904"
+        },
+        "GEN185" : {
+          "Absences" : "0",
+          "CRN" : 21363,
+          "Grade" : "A",
+          "Repeated" : 0,
+          "SectionID" : "909"
+        },
+        "GEN195" : {
+          "Absences" : "0",
+          "CRN" : 22063,
+          "Grade" : "A",
+          "Repeated" : 0,
+          "SectionID" : "908"
+        },
+        "GEN220" : {
+          "Absences" : "5.88",
+          "CRN" : 20344,
+          "Grade" : "B-",
+          "Repeated" : 0,
+          "SectionID" : "901"
+        },
+        "HSS255" : {
+          "Absences" : "5.88",
+          "CRN" : 22757,
+          "Grade" : "B",
+          "Repeated" : 0,
+          "SectionID" : "905"
+        },
+        "ISL135" : {
+          "Absences" : "5.88",
+          "CRN" : 22729,
+          "Grade" : "B+",
+          "Repeated" : 0,
+          "SectionID" : "905"
+        }
+      },
+      "202021" : {
+        "CIT210" : {
+          "Absences" : "0",
+          "CRN" : 20773,
+          "Grade" : "B+",
+          "Repeated" : 0,
+          "SectionID" : "902"
+        },
+        "GEN145" : {
+          "Absences" : "0",
+          "CRN" : 20183,
+          "Grade" : "C+",
+          "Repeated" : 0,
+          "SectionID" : "902"
+        },
+        "GEN175" : {
+          "Absences" : "0",
+          "CRN" : 902,
+          "Grade" : "A",
+          "Repeated" : 0,
+          "SectionID" : "902"
+        },
+        "MTH215" : {
+          "Absences" : "0",
+          "CRN" : 23089,
+          "Grade" : "B+",
+          "Repeated" : 0,
+          "SectionID" : "903"
+        },
+        "MTH281" : {
+          "Absences" : "0",
+          "CRN" : 21226,
+          "Grade" : "C+",
+          "Repeated" : 0,
+          "SectionID" : "901"
+        }
+      },
+      "202022" : {
+        "CIT365" : {
+          "Absences" : "0",
+          "CRN" : 21410,
+          "Grade" : " ",
+          "Repeated" : 0,
+          "SectionID" : "903"
+        },
+        "ENG240" : {
+          "Absences" : "0",
+          "CRN" : 21708,
+          "Grade" : " ",
+          "Repeated" : 0,
+          "SectionID" : "908"
+        },
+        "NET256" : {
+          "Absences" : "0",
+          "CRN" : 22925,
+          "Grade" : " ",
+          "Repeated" : 0,
+          "SectionID" : "901"
+        },
+        "NET257" : {
+          "Absences" : "0",
+          "CRN" : 23654,
+          "Grade" : " ",
+          "Repeated" : 0,
+          "SectionID" : "906"
+        },
+        "SEC235" : {
+          "Absences" : "0",
+          "CRN" : 22777,
+          "Grade" : " ",
+          "Repeated" : 0,
+          "SectionID" : "903"
+        },
+        "SWE225" : {
+          "Absences" : "0",
+          "CRN" : 21338,
+          "Grade" : " ",
+          "Repeated" : 0,
+          "SectionID" : "902"
+        }
+      },
+      "202121" : {
+        "SWE320" : {
+          "CRN" : 23412,
+          "Repeated" : 0,
+          "SectionID" : 904
+        },
+        "SWE321" : {
+          "CRN" : 21896,
+          "Repeated" : 0,
+          "SectionID" : 908
+        }
+      },
+      "EarnedHours" : 61,
+      "GPAHours" : 45,
+      "Projection" : [ "CIT300", "CIT315", "ARA320", "SWE245", "INS377", "CIT466" ]
+    },
+    "005" : {
+      "201921" : {
+        "ADV100" : {
+          "Absences" : "0",
+          "CRN" : 23195,
+          "Grade" : "P",
+          "Repeated" : 0,
+          "SectionID" : "903"
+        },
+        "ARA130" : {
+          "Absences" : "5.88",
+          "CRN" : 32588,
+          "Grade" : "D+",
+          "Repeated" : 0,
+          "SectionID" : "901"
+        },
+        "GEN110" : {
+          "Absences" : "8.82",
+          "CRN" : 22943,
+          "Grade" : "A",
+          "Repeated" : 0,
+          "SectionID" : "908"
+        },
+        "GEN120" : {
+          "Absences" : "2.94",
+          "CRN" : 23127,
+          "Grade" : "B",
+          "Repeated" : 0,
+          "SectionID" : "903"
+        },
+        "GEN140" : {
+          "Absences" : "8.82",
+          "CRN" : 22943,
+          "Grade" : "B+",
+          "Repeated" : 0,
+          "SectionID" : "904"
+        },
+        "GEN150" : {
+          "Absences" : "8.82",
+          "CRN" : 22810,
+          "Grade" : "A",
+          "Repeated" : 0,
+          "SectionID" : "902"
+        }
+      },
+      "201922" : {
+        "ADV101" : {
+          "Absences" : "0",
+          "CRN" : 20944,
+          "Grade" : "P",
+          "Repeated" : 0,
+          "SectionID" : "904"
+        },
+        "GEN145" : {
+          "Absences" : "2.94",
+          "CRN" : 20366,
+          "Grade" : "PP",
+          "Repeated" : 0,
+          "SectionID" : "902"
+        },
+        "GEN175" : {
+          "Absences" : "2.94",
+          "CRN" : 22024,
+          "Grade" : "A-",
+          "Repeated" : 0,
+          "SectionID" : "909"
+        },
+        "GEN185" : {
+          "Absences" : "0",
+          "CRN" : 20664,
+          "Grade" : "PP",
+          "Repeated" : 0,
+          "SectionID" : "904"
+        },
+        "GEN195" : {
+          "Absences" : "2.94",
+          "CRN" : 21398,
+          "Grade" : "A",
+          "Repeated" : 0,
+          "SectionID" : "905"
+        },
+        "ISL135" : {
+          "Absences" : "5.88",
+          "CRN" : 22730,
+          "Grade" : "PP",
+          "Repeated" : 0,
+          "SectionID" : "906"
+        }
+      },
+      "201923" : {
+        "MTH215" : {
+          "Absences" : "0",
+          "CRN" : 20258,
+          "Grade" : "D",
+          "Repeated" : 0,
+          "SectionID" : "901"
+        },
+        "MTH281" : {
+          "Absences" : "0",
+          "CRN" : 20260,
+          "Grade" : "NP",
+          "Repeated" : 0,
+          "SectionID" : "901"
+        }
+      },
+      "202021" : {
+        "CIT210" : {
+          "Absences" : "0",
+          "CRN" : 20773,
+          "Grade" : "PP",
+          "Repeated" : 0,
+          "SectionID" : "902"
+        },
+        "ENG240" : {
+          "Absences" : "0",
+          "CRN" : 20918,
+          "Grade" : "PP",
+          "Repeated" : 0,
+          "SectionID" : "906"
+        },
+        "GEN220" : {
+          "Absences" : "0",
+          "CRN" : 21221,
+          "Grade" : "B+",
+          "Repeated" : 0,
+          "SectionID" : "905"
+        },
+        "HSS255" : {
+          "Absences" : "0",
+          "CRN" : 23134,
+          "Grade" : "A",
+          "Repeated" : 0,
+          "SectionID" : "906"
+        },
+        "SEC235" : {
+          "Absences" : "0",
+          "CRN" : 21260,
+          "Grade" : "F",
+          "Repeated" : 0,
+          "SectionID" : "902"
+        }
+      },
+      "202022" : {
+        "CIT300" : {
+          "Absences" : "5.88",
+          "CRN" : 20072,
+          "Grade" : "A",
+          "Repeated" : 0,
+          "SectionID" : "901"
+        },
+        "CIT315" : {
+          "Absences" : 0,
+          "CRN" : 21871,
+          "Grade" : "B-",
+          "Repeated" : 0,
+          "SectionID" : 907
+        },
+        "CIT365" : {
+          "Absences" : "11.77",
+          "CRN" : 20100,
+          "Grade" : "B",
+          "Repeated" : 0,
+          "SectionID" : "901"
+        },
+        "NET256" : {
+          "Absences" : "0",
+          "CRN" : 20913,
+          "Grade" : "A",
+          "Repeated" : 0,
+          "SectionID" : "903"
+        },
+        "NET257" : {
+          "Absences" : "2.94",
+          "CRN" : 20915,
+          "Grade" : "A",
+          "Repeated" : 0,
+          "SectionID" : "903"
+        },
+        "SWE225" : {
+          "Absences" : "2.94",
+          "CRN" : 21338,
+          "Grade" : "B+",
+          "Repeated" : 0,
+          "SectionID" : "902"
+        }
+      },
+      "202121" : {
+        "ARA320" : {
+          "CRN" : 23551,
+          "Repeated" : 0,
+          "SectionID" : 901
+        },
+        "SWE245" : {
+          "CRN" : 23124,
+          "Repeated" : 0,
+          "SectionID" : 903
+        }
+      },
+      "EarnedHours" : 67,
+      "GPAHours" : 30,
+      "Projection" : [ "SWE320", "SWE321", "INS377", "ARA320", "SWE245", "CIT315" ]
+    }
+  },
+  "Instructor" : {
+    "F7533" : {
+      "Degree" : "Sc.D.",
+      "DegreeCountry" : "United States of America",
+      "Department" : "College of Technological Innovation",
+      "FirstName" : "Emad",
+      "Gender" : "M",
+      "LastName" : "Bataineh"
+    },
+    "Z10031" : {
+      "Degree" : "M.A.",
+      "DegreeCountry" : "Egypt",
+      "Department" : "University College",
+      "FirstName" : "Shorouk",
+      "Gender" : "F",
+      "LastName" : "Hanafy"
+    },
+    "Z10062" : {
+      "Degree" : "Ph.D.",
+      "DegreeCountry" : "Jordan",
+      "Department" : "College of Humanities and Social Sciences",
+      "FirstName" : "Man",
+      "Gender" : "M",
+      "LastName" : "Baker"
+    },
+    "Z10106" : {
+      "Degree" : "Ph.D.",
+      "DegreeCountry" : "Morocco",
+      "Department" : "College of Humanities and Social Sciences",
+      "FirstName" : "Said",
+      "Gender" : "M",
+      "LastName" : "El Bousklaoui"
+    },
+    "Z10115" : {
+      "Degree" : "Ph.D.",
+      "DegreeCountry" : "Jordan",
+      "Department" : "College of Humanities and Social Sciences",
+      "FirstName" : "Ahmad",
+      "Gender" : "M",
+      "LastName" : "Aljanadbah"
+    },
+    "Z10221" : {
+      "Degree" : "Ph.D.",
+      "DegreeCountry" : "Morocco",
+      "Department" : "College of Humanities and Social Sciences",
+      "FirstName" : "Rabah",
+      "Gender" : "M",
+      "LastName" : "Maghraoui"
+    },
+    "Z10247" : {
+      "Degree" : "Ph.D.",
+      "DegreeCountry" : "Lebanon",
+      "Department" : "College of Technological Innovation",
+      "FirstName" : "Sanaa",
+      "Gender" : "F",
+      "LastName" : "Kaddoura"
+    },
+    "Z10260" : {
+      "Degree" : "M.S.",
+      "DegreeCountry" : "United Arab Emirates",
+      "Department" : "College of Technological Innovation",
+      "FirstName" : "Liza",
+      "Gender" : "F",
+      "LastName" : "Ahmad"
+    },
+    "Z10371" : {
+      "Degree" : "M.S.",
+      "DegreeCountry" : "United Arab Emirates",
+      "Department" : "University College",
+      "FirstName" : "Rashed",
+      "Gender" : "M",
+      "LastName" : "Algaoud"
+    },
+    "Z10405" : {
+      "Degree" : "M.Sc.",
+      "DegreeCountry" : "Jordan",
+      "Department" : "University College",
+      "FirstName" : "Hadeel",
+      "Gender" : "F",
+      "LastName" : "AlZawahreh"
+    },
+    "Z10408" : {
+      "Degree" : "M.S.",
+      "DegreeCountry" : "Canada",
+      "Department" : "University College",
+      "FirstName" : "Shahbano",
+      "Gender" : "F",
+      "LastName" : "Farooq"
+    },
+    "Z10438" : {
+      "Degree" : "M.S.",
+      "DegreeCountry" : "United Kingdom",
+      "Department" : "University College",
+      "FirstName" : "Hanar",
+      "Gender" : "F",
+      "LastName" : "Atroshi"
+    },
+    "Z10444" : {
+      "Degree" : "M.S.",
+      "DegreeCountry" : "United Arab of Emirates",
+      "Department" : "University College",
+      "FirstName" : "Lama",
+      "Gender" : "F",
+      "LastName" : "Mahmoud"
+    },
+    "Z10448" : {
+      "Degree" : "M.S.",
+      "DegreeCountry" : "France",
+      "Department" : "University College",
+      "FirstName" : "Rima",
+      "Gender" : "F",
+      "LastName" : "Al Chaar"
+    },
+    "Z10497" : {
+      "Degree" : "M.A.",
+      "DegreeCountry" : "United States of America",
+      "Department" : "University College",
+      "FirstName" : "Stephanie",
+      "Gender" : "F",
+      "LastName" : "Siam"
+    },
+    "Z10511" : {
+      "Degree" : "M.S.",
+      "DegreeCountry" : "United States of America",
+      "Department" : "University College",
+      "FirstName" : "Dominique",
+      "Gender" : "F",
+      "LastName" : "Waters"
+    },
+    "Z10513" : {
+      "Degree" : "M.S.",
+      "DegreeCountry" : "United Arab Emirates",
+      "Department" : "University College",
+      "FirstName" : "Amer",
+      "Gender" : "M",
+      "LastName" : "Malbanji"
+    },
+    "Z10519" : {
+      "Degree" : "M.S.",
+      "DegreeCountry" : "United Arab Emirates",
+      "Department" : "University College",
+      "FirstName" : "Jalal",
+      "Gender" : "F",
+      "LastName" : "AlHallak"
+    },
+    "Z10522" : {
+      "Degree" : "M.S.",
+      "DegreeCountry" : "Australia",
+      "Department" : "University College",
+      "FirstName" : "Asmaa",
+      "Gender" : "F",
+      "LastName" : "AlHameli"
+    },
+    "Z10524" : {
+      "Degree" : "M.S.",
+      "DegreeCountry" : "United States of America",
+      "Department" : "University College",
+      "FirstName" : "Ahmad",
+      "Gender" : "M",
+      "LastName" : "Mashreqi"
+    },
+    "Z10549" : {
+      "Degree" : "M.S.",
+      "DegreeCountry" : "United Arab Emirates",
+      "Department" : "University College",
+      "FirstName" : "Vasilia",
+      "Gender" : "F",
+      "LastName" : "AlKhaldi"
+    },
+    "Z10595" : {
+      "Degree" : "Ph.D.",
+      "DegreeCountry" : "United States of America",
+      "Department" : "College of Natural and Health Sciences",
+      "FirstName" : "Ziad",
+      "Gender" : "M",
+      "LastName" : "Adwan"
+    },
+    "Z10635" : {
+      "Degree" : "Ph.D.",
+      "DegreeCountry" : "Malaysia",
+      "Department" : "College of Humanities and Social Sciences",
+      "FirstName" : "Anas",
+      "Gender" : "M",
+      "LastName" : "Abuata"
+    },
+    "Z10653" : {
+      "Degree" : "Ph.D.",
+      "DegreeCountry" : "Morocco",
+      "Department" : "College of Humanities and Social Sciences",
+      "FirstName" : "Mohammed",
+      "Gender" : "M",
+      "LastName" : "Salami"
+    },
+    "Z10655" : {
+      "Degree" : "Ph.D.",
+      "DegreeCountry" : "Canada",
+      "Department" : "College of Natural and Health Sciences",
+      "FirstName" : "Rachid",
+      "Gender" : "M",
+      "LastName" : "Bentoumi"
+    },
+    "Z10664" : {
+      "Degree" : "Ph.D.",
+      "DegreeCountry" : "United States of America",
+      "Department" : "College of Natural and Health Sciences",
+      "FirstName" : "Rafiq",
+      "Gender" : "M",
+      "LastName" : "Hijazi"
+    },
+    "Z10670" : {
+      "Degree" : "Ph.D.",
+      "DegreeCountry" : "Netherlands",
+      "Department" : "College of Natural and Health Sciences",
+      "FirstName" : "Yogi",
+      "Gender" : "M",
+      "LastName" : "Erlangga"
+    },
+    "Z10676" : {
+      "Degree" : "M.Ed.",
+      "DegreeCountry" : "Australia",
+      "Department" : "University College",
+      "FirstName" : "Bhavesh",
+      "Gender" : "M",
+      "LastName" : "Jumnadass"
+    },
+    "Z10711" : {
+      "Degree" : "M.Ed.",
+      "DegreeCountry" : "United States of America",
+      "Department" : "University College",
+      "FirstName" : "Jacklyn",
+      "Gender" : "M",
+      "LastName" : "Gentile"
+    },
+    "Z10715" : {
+      "Degree" : "Ph.D.",
+      "DegreeCountry" : "Denmark",
+      "Department" : "Software Development ",
+      "FirstName" : "Mohammad Amin",
+      "Gender" : "M",
+      "LastName" : "Kuhail"
+    },
+    "Z10732" : {
+      "Degree" : "M.Ed.",
+      "DegreeCountry" : "United Arab Emirates",
+      "Department" : "University College",
+      "FirstName" : "Salwa",
+      "Gender" : "F",
+      "LastName" : "Husain"
+    },
+    "Z10734" : {
+      "Degree" : "M.Sc.",
+      "DegreeCountry" : "United States of America",
+      "Department" : "University College",
+      "FirstName" : "Hala",
+      "Gender" : "F",
+      "LastName" : "ElNagar"
+    },
+    "Z10756" : {
+      "Degree" : "Ph.D.",
+      "DegreeCountry" : "United States of America",
+      "Department" : "College of Humanities and Social Sciences",
+      "FirstName" : "Hussain",
+      "Gender" : "M",
+      "LastName" : "AlMansoori"
+    },
+    "Z10765" : {
+      "Degree" : "Ph.D.",
+      "DegreeCountry" : "United States of America",
+      "Department" : "University College",
+      "FirstName" : "Samah",
+      "Gender" : "F",
+      "LastName" : "Al Asmar"
+    },
+    "Z10789" : {
+      "Degree" : "Ph.D.",
+      "DegreeCountry" : "United States of America",
+      "Department" : "College of Technological Innovation",
+      "FirstName" : "Mohammad",
+      "Gender" : "M",
+      "LastName" : "AlAkhras"
+    },
+    "Z10804" : {
+      "Degree" : "Ph.D.",
+      "DegreeCountry" : "United States of America",
+      "Department" : "College of Technological Innovation",
+      "FirstName" : "Imran",
+      "Gender" : "M",
+      "LastName" : "Junejo"
+    },
+    "Z10817" : {
+      "Degree" : "Ph.D.",
+      "DegreeCountry" : "United Arab Emirates",
+      "Department" : "College of Humanities and Social Sciences",
+      "FirstName" : "Ayesha",
+      "Gender" : "F",
+      "LastName" : "AlKetbi"
+    },
+    "Z10881" : {
+      "Degree" : "M.A.",
+      "DegreeCountry" : "United States of America",
+      "Department" : "University College",
+      "FirstName" : "Glynda",
+      "Gender" : "F",
+      "LastName" : "Stiner"
+    },
+    "Z10903" : {
+      "Degree" : "Ph.D.",
+      "DegreeCountry" : "United Kingdom",
+      "Department" : "College of Technological Innovation",
+      "FirstName" : "Mohd",
+      "Gender" : "M",
+      "LastName" : "Nazir"
+    },
+    "Z10910" : {
+      "Degree" : "Ph.D.",
+      "DegreeCountry" : "Philippines",
+      "Department" : "College of Technological Innovation",
+      "FirstName" : "Edmund",
+      "Gender" : "M",
+      "LastName" : "Evangelista"
+    },
+    "Z10944" : {
+      "Degree" : "Ph.D.",
+      "DegreeCountry" : "United Arab Emirates",
+      "Department" : "College of Technological Innovation",
+      "FirstName" : "Hamda",
+      "Gender" : "F",
+      "LastName" : "Al Breiki"
+    },
+    "Z11235" : {
+      "Degree" : "M.Sc.",
+      "DegreeCountry" : "United States of America",
+      "Department" : "University College",
+      "FirstName" : "Ebrahim",
+      "Gender" : "M",
+      "LastName" : "Hashem"
+    },
+    "Z11298" : {
+      "Degree" : "Ph.D.",
+      "DegreeCountry" : "United Kingdom",
+      "Department" : "College of Natural and Health Sciences",
+      "FirstName" : "Maher",
+      "Gender" : "M",
+      "LastName" : "Aburros"
+    },
+    "Z12315" : {
+      "Degree" : "M.A.",
+      "DegreeCountry" : "United States of America",
+      "Department" : "University College",
+      "FirstName" : "Jeffery",
+      "Gender" : "F",
+      "LastName" : "Davis"
+    },
+    "Z12548" : {
+      "Degree" : "Ed.D.",
+      "DegreeCountry" : "United States of America",
+      "Department" : "University College",
+      "FirstName" : "Jobila",
+      "Gender" : "F",
+      "LastName" : "Sy"
+    },
+    "Z12648" : {
+      "Degree" : "Ph.D.",
+      "DegreeCountry" : "Syria",
+      "Department" : "College of Education",
+      "FirstName" : "Mokhtar",
+      "Gender" : "M",
+      "LastName" : "Boularawi"
+    },
+    "Z12754" : {
+      "Degree" : "Ph.D.",
+      "DegreeCountry" : "United States of America",
+      "Department" : "College of Education",
+      "FirstName" : "Muhammad",
+      "Gender" : "M",
+      "LastName" : "Qureshi"
+    },
+    "Z8016" : {
+      "Degree" : "M.A.",
+      "DegreeCountry" : "United Kingdom",
+      "Department" : "University College",
+      "FirstName" : "Paul",
+      "Gender" : "M",
+      "LastName" : "Carroll"
+    },
+    "Z8184" : {
+      "Degree" : "Ph.D.",
+      "DegreeCountry" : "Egypt",
+      "Department" : "College of Humanities and Social Sciences",
+      "FirstName" : "Mostafa",
+      "Gender" : "M",
+      "LastName" : "Dogim"
+    },
+    "Z8534" : {
+      "Degree" : "M.Ed.",
+      "DegreeCountry" : "United Kingdom",
+      "Department" : "University College",
+      "FirstName" : "Peter",
+      "Gender" : "M",
+      "LastName" : "Tall"
+    },
+    "Z8611" : {
+      "Degree" : "M.A.",
+      "DegreeCountry" : "United Kingdom",
+      "Department" : "University College",
+      "FirstName" : "Leyla",
+      "Gender" : "F",
+      "LastName" : "Ozmenekse"
+    },
+    "Z8660" : {
+      "Degree" : "M.A.",
+      "DegreeCountry" : "United Kingdom",
+      "Department" : "University College",
+      "FirstName" : "Tatjana",
+      "Gender" : "F",
+      "LastName" : "Skoro"
+    },
+    "Z8721" : {
+      "Degree" : "M.S.",
+      "DegreeCountry" : "United Arab Emirates",
+      "Department" : "University College",
+      "FirstName" : "Izzeddin",
+      "Gender" : "M",
+      "LastName" : "Asad"
+    },
+    "Z8913" : {
+      "Degree" : "Ph.D.",
+      "DegreeCountry" : "Egypt",
+      "Department" : "College of Humanities and Social Sciences",
+      "FirstName" : "Hussein",
+      "Gender" : "M",
+      "LastName" : "Sabry"
+    },
+    "Z9241" : {
+      "Degree" : "Ph.D.",
+      "DegreeCountry" : "United Kingdom",
+      "Department" : "College of Technological Innovation",
+      "FirstName" : "Basel",
+      "Gender" : "M",
+      "LastName" : "Almourad"
+    },
+    "Z9544" : {
+      "Degree" : "M.Ed.",
+      "DegreeCountry" : "United States of America",
+      "Department" : "University College",
+      "FirstName" : "Jaime",
+      "Gender" : "F",
+      "LastName" : "Buchanan"
+    },
+    "Z9549" : {
+      "Degree" : "M.A.",
+      "DegreeCountry" : "United States of America",
+      "Department" : "University College",
+      "FirstName" : "Hayfa",
+      "Gender" : "F",
+      "LastName" : "AbdulJaber"
+    },
+    "Z9551" : {
+      "Degree" : "M.S.",
+      "DegreeCountry" : "Jordan",
+      "Department" : "College of Technological Innovation",
+      "FirstName" : "Asmaa",
+      "Gender" : "F",
+      "LastName" : "Seyam"
+    },
+    "Z9689" : {
+      "Degree" : "Ph.D.",
+      "DegreeCountry" : "United States of America",
+      "Department" : "College of Natural and Health Sciences",
+      "FirstName" : "Lance",
+      "Gender" : "M",
+      "LastName" : "Kahn"
+    },
+    "Z9695" : {
+      "Degree" : "M.A.",
+      "DegreeCountry" : "Australia",
+      "Department" : "University College",
+      "FirstName" : "Ajda",
+      "Gender" : "F",
+      "LastName" : "Osifo"
+    },
+    "Z9725" : {
+      "Degree" : "Ed.D.",
+      "DegreeCountry" : "United States of America",
+      "Department" : "College of Education",
+      "FirstName" : "Adam",
+      "Gender" : "M",
+      "LastName" : "Jeffers"
+    },
+    "Z9735" : {
+      "Degree" : "M.A.",
+      "DegreeCountry" : "United States of America",
+      "Department" : "University College",
+      "FirstName" : "Erik",
+      "Gender" : "M",
+      "LastName" : "Thornquist"
+    },
+    "Z9898" : {
+      "Degree" : "Ph.D.",
+      "DegreeCountry" : "United States of America",
+      "Department" : "College of Humanities and Social Sciences",
+      "FirstName" : "Chrysavgi",
+      "Gender" : "F",
+      "LastName" : "Papagianni"
+    },
+    "Z9908" : {
+      "Degree" : "M.A.",
+      "DegreeCountry" : "United States of America",
+      "Department" : "University College",
+      "FirstName" : "Janice",
+      "Gender" : "F",
+      "LastName" : "Kaur Munster"
+    }
+  },
+  "Section" : {
+    "201921" : {
+      "ADV100" : {
+        "911" : {
+          "CRN" : 33486,
+          "InstructorID" : "Z9725",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        },
+        "913" : {
+          "CRN" : 33491,
+          "InstructorID" : "Z10676",
+          "Status" : "Open",
+          "TAEmail" : "",
+          "TAName" : " "
+        }
+      },
+      "ARA130" : {
+        "901" : {
+          "CRN" : 32588,
+          "InstructorID" : "Z10653",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        },
+        "902" : {
+          "CRN" : 32589,
+          "InstructorID" : "Z10756",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        }
+      },
+      "GEN110" : {
+        "903" : {
+          "CRN" : 23040,
+          "InstructorID" : "Z10513",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        },
+        "905" : {
+          "CRN" : 24017,
+          "InstructorID" : "Z10511",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        },
+        "908" : {
+          "CRN" : 33509,
+          "InstructorID" : "Z10519",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        }
+      },
+      "GEN120" : {
+        "903" : {
+          "CRN" : 23127,
+          "InstructorID" : "Z12315",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        },
+        "911" : {
+          "CRN" : 33527,
+          "InstructorID" : "Z9725",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        },
+        "913" : {
+          "CRN" : 33531,
+          "InstructorID" : "Z10676",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        }
+      },
+      "GEN140" : {
+        "903" : {
+          "CRN" : 22767,
+          "InstructorID" : "Z8611",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        },
+        "904" : {
+          "CRN" : 22943,
+          "InstructorID" : "Z9695",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        },
+        "906" : {
+          "CRN" : 23058,
+          "InstructorID" : "Z10497",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        }
+      },
+      "GEN150" : {
+        "905" : {
+          "CRN" : 23054,
+          "InstructorID" : "Z10711",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        },
+        "910" : {
+          "CRN" : 33657,
+          "InstructorID" : "Z10765",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        }
+      }
+    },
+    "201922" : {
+      "ADV101" : {
+        "904" : {
+          "CRN" : 20944,
+          "InstructorID" : "Z9689",
+          "Status" : "",
+          "TAEmail" : " ",
+          "TAName" : " "
+        }
+      },
+      "GEN145" : {
+        "902" : {
+          "CRN" : 20366,
+          "InstructorID" : "Z10031",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        },
+        "903" : {
+          "CRN" : 20986,
+          "InstructorID" : "Z9544",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        }
+      },
+      "GEN175" : {
+        "907" : {
+          "CRN" : 21648,
+          "InstructorID" : "Z8721",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        },
+        "909" : {
+          "CRN" : 22024,
+          "InstructorID" : "Z10408",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        }
+      },
+      "GEN185" : {
+        "903" : {
+          "CRN" : 20627,
+          "InstructorID" : "Z10549",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        },
+        "904" : {
+          "CRN" : 20664,
+          "InstructorID" : "Z10734",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        },
+        "909" : {
+          "CRN" : 21363,
+          "InstructorID" : "Z12548",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        }
+      },
+      "GEN195" : {
+        "905" : {
+          "CRN" : 21398,
+          "InstructorID" : "Z10405",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        },
+        "908" : {
+          "CRN" : 22063,
+          "InstructorID" : "Z10371",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        },
+        "909" : {
+          "CRN" : 22065,
+          "InstructorID" : "Z10448",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        }
+      },
+      "GEN220" : {
+        "901" : {
+          "CRN" : 20344,
+          "InstructorID" : "Z11235",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        }
+      },
+      "HSS255" : {
+        "905" : {
+          "CRN" : 22757,
+          "InstructorID" : "Z10221",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        }
+      },
+      "ISL135" : {
+        "902" : {
+          "CRN" : 22726,
+          "InstructorID" : "Z10635",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        },
+        "905" : {
+          "CRN" : 22729,
+          "InstructorID" : "Z10106",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        },
+        "906" : {
+          "CRN" : 22730,
+          "InstructorID" : "Z10635",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        }
+      }
+    },
+    "201923" : {
+      "MTH215" : {
+        "901" : {
+          "CRN" : 20258,
+          "InstructorID" : "Z10670",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        }
+      },
+      "MTH281" : {
+        "901" : {
+          "CRN" : 20260,
+          "InstructorID" : "Z10655",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        }
+      }
+    },
+    "202021" : {
+      "ADV100" : {
+        "028" : {
+          "CRN" : 21334,
+          "InstructorID" : "Z10676",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        },
+        "906" : {
+          "CRN" : 20647,
+          "InstructorID" : "Z10676",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        }
+      },
+      "ARA030" : {
+        "902" : {
+          "CRN" : 22210,
+          "InstructorID" : "Z10653",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        }
+      },
+      "ARA130" : {
+        "021" : {
+          "CRN" : 21921,
+          "InstructorID" : "Z12648",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        }
+      },
+      "CIT210" : {
+        "010" : {
+          "CRN" : 23501,
+          "InstructorID" : "Z9551",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        },
+        "901" : {
+          "CRN" : 22698,
+          "InstructorID" : "Z10804",
+          "Status" : "Open",
+          "TAEmail" : "20183469@zu.ac.ae",
+          "TAName" : "Reem Zayed "
+        },
+        "902" : {
+          "CRN" : 20773,
+          "InstructorID" : "F7533",
+          "Status" : "Open",
+          "TAEmail" : "20181964@zu.ac.ae",
+          "TAName" : "Abir Hamdan bin Khalifa "
+        }
+      },
+      "ENG145" : {
+        "901" : {
+          "CRN" : 20183,
+          "InstructorID" : "Z8660",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        }
+      },
+      "ENG240" : {
+        "905" : {
+          "CRN" : 21151,
+          "InstructorID" : "Z12754",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        },
+        "906" : {
+          "CRN" : 20918,
+          "InstructorID" : "Z9898",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        }
+      },
+      "GEN140" : {
+        "010" : {
+          "CRN" : 20161,
+          "InstructorID" : "Z9908",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        },
+        "906" : {
+          "CRN" : 20412,
+          "InstructorID" : "Z8534",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        }
+      },
+      "GEN150" : {
+        "005" : {
+          "CRN" : 20234,
+          "InstructorID" : "Z9549",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        },
+        "908" : {
+          "CRN" : 21695,
+          "InstructorID" : "Z10522",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        }
+      },
+      "GEN175" : {
+        "902" : {
+          "CRN" : 20823,
+          "InstructorID" : "Z10408",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        }
+      },
+      "GEN195" : {
+        "909" : {
+          "CRN" : 23042,
+          "InstructorID" : "Z10524",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        }
+      },
+      "GEN220" : {
+        "902" : {
+          "CRN" : 20376,
+          "InstructorID" : "Z10444",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        },
+        "905" : {
+          "CRN" : 21221,
+          "InstructorID" : "Z10549",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        }
+      },
+      "HSS255" : {
+        "905" : {
+          "CRN" : 21456,
+          "InstructorID" : "Z8184",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        },
+        "906" : {
+          "CRN" : 23134,
+          "InstructorID" : "Z10817",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        }
+      },
+      "MTH215" : {
+        "002" : {
+          "CRN" : 20814,
+          "InstructorID" : "Z10670",
+          "Status" : "Closed",
+          "TAEmail" : " ",
+          "TAName" : " "
+        },
+        "902" : {
+          "CRN" : 211826,
+          "InstructorID" : "Z10670",
+          "Status" : "Closed",
+          "TAEmail" : " ",
+          "TAName" : " "
+        },
+        "903" : {
+          "CRN" : 23089,
+          "InstructorID" : "Z11298",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        }
+      },
+      "MTH281" : {
+        "901" : {
+          "CRN" : 21226,
+          "InstructorID" : "Z10664",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        }
+      },
+      "SEC235" : {
+        "902" : {
+          "CRN" : 21260,
+          "InstructorID" : "Z10247",
+          "Status" : "Open",
+          "TAEmail" : "20189854@zu.ac.ae",
+          "TAName" : "Faisal  Munbarek "
+        }
+      }
+    },
+    "202022" : {
+      "ARA130" : {
+        "902" : {
+          "CRN" : 21836,
+          "Days" : "SW",
+          "EndTime" : "09:20",
+          "InstructorID" : "Z10115",
+          "StartTime" : "08:00",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        }
+      },
+      "CIT300" : {
+        "901" : {
+          "CRN" : 20072,
+          "Days" : "MH",
+          "EndTime" : "10:50",
+          "InstructorID" : "Z9735",
+          "StartTime" : "09:30",
+          "Status" : "Open",
+          "TAEmail" : "20186349@zu.ac.ae ",
+          "TAName" : "Fatema Awadh Ali Almazrouei"
+        }
+      },
+      "CIT365" : {
+        "903" : {
+          "CRN" : 21410,
+          "Days" : "SW",
+          "EndTime" : "14:50",
+          "InstructorID" : "Z10903",
+          "StartTime" : "13:30",
+          "Status" : "Open",
+          "TAEmail" : " 20188723@zu.ac.ae",
+          "TAName" : "Zayed Abdel Azizz"
+        },
+        "904" : {
+          "CRN" : 22783,
+          "Days" : "MH",
+          "EndTime" : "12:20",
+          "InstructorID" : "Z9241",
+          "StartTime" : "11:00",
+          "Status" : "Open",
+          "TAEmail" : "20187634@zu.ac.ae",
+          "TAName" : "Munsur Ahmed bin Zayed"
+        }
+      },
+      "ENG145" : {
+        "019" : {
+          "CRN" : 22716,
+          "Days" : "SW",
+          "EndTime" : "09:20",
+          "InstructorID" : "Z10715",
+          "StartTime" : "08:00",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        },
+        "904" : {
+          "CRN" : 22843,
+          "Days" : "MH",
+          "EndTime" : "10:50",
+          "InstructorID" : "Z10881",
+          "StartTime" : "09:30",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        }
+      },
+      "ISL135" : {
+        "006" : {
+          "CRN" : 21863,
+          "Days" : "MH",
+          "EndTime" : "09:20",
+          "InstructorID" : "Z10062",
+          "StartTime" : "08:00",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        },
+        "905" : {
+          "CRN" : 21934,
+          "Days" : "SW",
+          "EndTime" : "14:50",
+          "InstructorID" : "Z8913",
+          "StartTime" : "13:30",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        }
+      },
+      "MTH215" : {
+        "002" : {
+          "CRN" : 20521,
+          "Days" : "ST",
+          "EndTime" : "12:20",
+          "InstructorID" : "Z10670",
+          "StartTime" : "11:00",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        },
+        "904" : {
+          "CRN" : 21855,
+          "Days" : "MH",
+          "EndTime" : "09:20",
+          "InstructorID" : "Z11298",
+          "StartTime" : "08:00",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        }
+      },
+      "MTH281" : {
+        "007" : {
+          "CRN" : 21162,
+          "Days" : "MH",
+          "EndTime" : "12:20",
+          "InstructorID" : "Z10664",
+          "StartTime" : "11:00",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        },
+        "901" : {
+          "CRN" : 20778,
+          "Days" : "SW",
+          "EndTime" : "12:20",
+          "InstructorID" : "Z10595",
+          "StartTime" : "11:00",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        }
+      },
+      "NET256" : {
+        "901" : {
+          "CRN" : 22925,
+          "Days" : "MH",
+          "EndTime" : "10:50",
+          "InstructorID" : "Z10789",
+          "StartTime" : "09:30",
+          "Status" : "Open",
+          "TAEmail" : "20173492@zu.ac.ae ",
+          "TAName" : "Meryam Khalifa"
+        },
+        "903" : {
+          "CRN" : 20913,
+          "Days" : "SW",
+          "EndTime" : "14:50",
+          "InstructorID" : "Z10789",
+          "StartTime" : "13:30",
+          "Status" : "Open",
+          "TAEmail" : "20173492@zu.ac.ae",
+          "TAName" : "Meryam Khalifa"
+        }
+      },
+      "NET257" : {
+        "903" : {
+          "CRN" : 20915,
+          "Days" : "S",
+          "EndTime" : "15:20",
+          "InstructorID" : "Z9551",
+          "StartTime" : "13:30",
+          "Status" : "Open",
+          "TAEmail" : "20169345@zu.ac.ae",
+          "TAName" : "Bashayer Mohammad"
+        },
+        "906" : {
+          "CRN" : 23654,
+          "Days" : "S",
+          "EndTime" : "15:20",
+          "InstructorID" : "Z10438",
+          "StartTime" : "13:30",
+          "Status" : "Open",
+          "TAEmail" : "20179764@zu.ac.ae",
+          "TAName" : "Madiya Rashid"
+        }
+      },
+      "SEC235" : {
+        "009" : {
+          "CRN" : 23530,
+          "Days" : "MH",
+          "EndTime" : "14:50",
+          "InstructorID" : "Z10260",
+          "StartTime" : "13:30",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        },
+        "901" : {
+          "CRN" : 20922,
+          "Days" : "MH",
+          "EndTime" : "16:20",
+          "InstructorID" : "Z10260",
+          "StartTime" : "15:00",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        },
+        "903" : {
+          "CRN" : 22777,
+          "Days" : "SW",
+          "EndTime" : "12:20",
+          "InstructorID" : "Z10944",
+          "StartTime" : "11:00",
+          "Status" : "Open",
+          "TAEmail" : "20185782@zu.ac.ae",
+          "TAName" : "Yaasin Ali"
+        }
+      },
+      "SWE225" : {
+        "902" : {
+          "CRN" : 21338,
+          "Days" : "MH",
+          "EndTime" : "09:20",
+          "InstructorID" : "Z10944",
+          "StartTime" : "08:00",
+          "Status" : "Open",
+          "TAEmail" : "20179243@zu.ac.ae",
+          "TAName" : "Fatma Abdel Rahman"
+        },
+        "903" : {
+          "CRN" : 22819,
+          "Days" : "MH",
+          "EndTime" : "12:20",
+          "InstructorID" : "Z10715",
+          "StartTime" : "11:00",
+          "Status" : "Open",
+          "TAEmail" : " ",
+          "TAName" : " "
+        }
+      }
+    }
+  },
+  "Student" : {
+    "001" : {
+      "CGPA" : 1.67,
+      "City" : "Abu Dhabi",
+      "College" : "CTI",
+      "Concentration" : "SecNet",
+      "FirstName" : "Ahmed",
+      "Gender" : "M",
+      "LastName" : "Hassan",
+      "Program" : " ",
+      "StreetAddress" : "Fatima bint Mubarak 6th St",
+      "StudentEmail" : "2020678@zu.ac.ae"
+    },
+    "002" : {
+      "CGPA" : 3.78,
+      "City" : "Abu Dhabi",
+      "College" : " CIT",
+      "Concentration" : "SecNet",
+      "FirstName" : "Eissa",
+      "Gender" : "M",
+      "LastName" : "Ali",
+      "Program" : " ",
+      "StreetAddress" : "Sheikh Zayed bin Sultan 8th St",
+      "StudentEmail" : "2019786@zu.ac.ae"
+    },
+    "003" : {
+      "CGPA" : 2.33,
+      "City" : "Abu Dhabi",
+      "College" : "CTI",
+      "Concentration" : "WAM",
+      "FirstName" : "Hussien",
+      "Gender" : "M",
+      "LastName" : "Zayed",
+      "Program" : " ",
+      "StreetAddress" : "Sultan bin Zayed the First 4th St",
+      "StudentEmail" : "2020876@zu.ac.ae"
+    },
+    "004" : {
+      "CGPA" : 3.2,
+      "City" : "Abu Dhabi",
+      "College" : "CIT ",
+      "Concentration" : " ",
+      "FirstName" : "Fatima",
+      "Gender" : "F",
+      "LastName" : "Abdel Kadr",
+      "Program" : " ",
+      "StreetAddress" : "Khalifa bin Zayed the First 3rd St",
+      "StudentEmail" : "20193467@zu.ac.ae"
+    },
+    "005" : {
+      "CGPA" : 3.2,
+      "City" : "Abu Dhabi",
+      "College" : "CIT",
+      "Concentration" : "",
+      "FirstName" : "Hamad",
+      "Gender" : "M",
+      "LastName" : "Khalifa",
+      "Program" : " ",
+      "StreetAddress" : "Dhafeer St 31th St",
+      "StudentEmail" : "2019765@zu.ac.ae"
+    },
+    "006" : {
+      "AdvisorID" : 1121,
+      "Citizenship" : "USA",
+      "DateOfBirth" : "01/16/2003",
+      "FirstName" : "Moiz",
+      "Gender" : "Male",
+      "LastName" : "Hashmi"
+    }
+  }
+}
